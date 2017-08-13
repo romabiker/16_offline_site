@@ -1,6 +1,16 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is Jumbotron Template for Bootstrap prepared for offline development.
+For faster or offline development you can use localhost. Simple web server can be used for that, just run:
+
+## Quickstart
+
+Example of script launch on Linux, Python 3.5:
+
+```
+$ python3 -m http.server
+```
+Use http://localhost:8000 to preview index.html in browser
 
 # Project Goals
 
